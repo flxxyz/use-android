@@ -44,3 +44,11 @@ LinearLayout // 流式布局
             android:background="#abcdef"></View>
     </LinearLayout>
 ```
+
+- - - -
+
+### 尺寸
+
+窗口，控件的尺寸最好使用 dp，尽量减少使用px
+
+字体使用 sp，可以有效的避免适配问题
