@@ -1,5 +1,8 @@
 ## 几个按钮
 
+另外几个常用按钮
+ToggleButton, switch
+
 ### activity_button.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
