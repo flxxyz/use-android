@@ -15,6 +15,9 @@
 
 - - - -
 
+demo下载地址: [点这里下载哟~](http://dl.flxxyz.com/file/app-debug.apk)
+
+
 测试通过
 ![123](/study-day-4/test-pic.png)
 ov系统不兼容，反正我也不会适配┑(￣Д ￣)┍
